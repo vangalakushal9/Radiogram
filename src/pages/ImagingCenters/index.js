@@ -12,8 +12,8 @@ const ImagingCenters = () => {
       <div className="page-content">
         <Container fluid>
           <BreadCrumb
-            title="Imaging Centers"
-            breadcrumbItem="Imaging Centers"
+            title="Imaging Center"
+            breadcrumbItem="Imaging Center"
           />
         </Container>
         <Row>
